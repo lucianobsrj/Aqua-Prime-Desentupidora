@@ -1,0 +1,24 @@
+/*
+Theme Name: Plumbr
+Description: Plumbr is a modern and clean WordPress theme for creating functional websites for Plumbing Services, Repairs, and Maintenance. Plumbr is the ideal choice for building a professional, trustworthy website that showcases your expertise and attracts customers.
+Author: Jegtheme
+Author URI: https://support.jegtheme.com/
+Theme URI: https://fse.jegtheme.com/plumbr/
+Version: 1.0.2
+Stable tag: 1.0.2
+Requires at least: 6.2
+Tested up to: 6.6
+Requires PHP: 7.4
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: plumbr
+Tags: grid-layout,three-columns,block-patterns,block-styles,full-site-editing,food-and-drink,portfolio
+Copyright: © Jegtheme. All rights reserved.
+*/
+
+:root{
+    
+}
+.editor-styles-wrapper .block-editor-block-list__layout.is-root-container > .block-library-block__reusable-block-container {
+    max-width: 100%;
+}
